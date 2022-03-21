@@ -12,7 +12,7 @@
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/440px-Cassandra_logo.svg.png"></code>
 <code><img height="25" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png"></code>
-<code><img height="25" src="https://avatars.githubusercontent.com/u/574284?s=200&v=4"></code>
+<code><img height="25" src="https://miro.medium.com/max/1400/1*I15Jfd1ZxG5BZNUd1xlGDw.png"></code>
 <code><img height="25" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
