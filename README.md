@@ -20,6 +20,11 @@
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" style="padding-right:10px;" />]
 [<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:10px;" />]
 
+<br />
+<br />
+
+---
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/anusha-sundar/">
