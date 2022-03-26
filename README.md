@@ -1,7 +1,7 @@
 # Hi, I'm Anusha 👋 
 
 ### About me
-<p>:woman_technologist: I work as <strong>Senior Quality Engineer</strong>.<br/>:books: Focused on Test Automation<br> 🥅 Love to learn something new every day.<br></p><br/>
+<p>:woman_technologist: I work as <strong>Senior Quality Engineer</strong><br/>:books: Focused on Test Automation<br> 🥅 Love to learn something new every day<br></p><br/>
 
 
 ### 💻 My Tech Stack:
