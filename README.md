@@ -4,7 +4,6 @@
 <p>:woman_technologist: I work as <strong>Senior Quality Engineer</strong>.<br/>:books: Focused on Test Automation<br> 🥅 Love to learn something new every day.<br></p><br/>
 
 
-
 ### 💻 My Tech Stack:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -21,8 +20,10 @@
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
+
 ### 🤖 My Test Automation Projects
 - [cypress-javascript-cucumber-framework](https://github.com/Anusha-Sundar/cypress-javascript-cucumber-framework) - This project is a code concept of using cypress and cucumber with page object model built using Javascript
+
 
 ### Connect with me:
 
