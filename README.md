@@ -3,8 +3,7 @@
 ### About me
 <p>:woman_technologist: I work as <strong>Senior Quality Engineer</strong><br/>:books: Focused on Test Automation<br> 🥅 Love to learn something new every day<br></p><br/>
 
-
-### 💻 My Tech Stack:
+### 💻 My Tech Stack
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
@@ -18,17 +17,16 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><br><br/>
 
 
 ### 🤖 My Test Automation Projects
 - [cypress-javascript-cucumber-framework](https://github.com/Anusha-Sundar/cypress-javascript-cucumber-framework) - This project is a code concept of using cypress and cucumber with page object model built using Javascript
+<br><br/>
 
-
-### Connect with me:
+### Connect with me
 
 <a href="https://www.linkedin.com/in/anusha-sundar/">
   <img align="left" alt="Anusha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br />
