@@ -22,6 +22,7 @@
 
 ### 🤖 My Test Automation Projects
 - [cypress-javascript-cucumber-framework](https://github.com/Anusha-Sundar/cypress-javascript-cucumber-framework) - This project is a code concept of using cypress and cucumber with page object model built using Javascript
+- [cypress-demo-framework](https://github.com/Anusha-Sundar/cypress-demo-framework) - This project covers the basic concepts of Cypress IO.
 <br><br/>
 
 ### Connect with me
