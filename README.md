@@ -60,4 +60,4 @@ Production APIs    → deployed, monitored, rate-limited, cached
 
 ### 🔗 Connect
 
-[![LinkedIn](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)](https://www.linkedin.com/in/anusha-sundar/) &nbsp; Anusha Sundar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anusha_Sundar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-sundar/)
