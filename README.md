@@ -2,7 +2,7 @@
 
 ### AI Engineer | LLM Applications | RAG Systems | Evaluation Pipelines
 
-I build production AI systems — from RAG pipelines and multi-agent workflows to evaluation frameworks that measure what actually matters. Currently transitioning from 12 years of Senior QA Engineering into full-time AI Engineering, bringing a systems-thinking and quality-first mindset to LLM applications.
+I build production AI systems — from RAG pipelines and multi-agent workflows to evaluation frameworks that measure what actually matters. 12 years of systems-thinking and quality-first engineering, now applied to LLM applications.
 
 ---
 
