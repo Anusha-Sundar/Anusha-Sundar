@@ -1,33 +1,63 @@
-# Hi, I'm Anusha 👋 
+# Hi, I'm Anusha 👋
 
-### About me
-<p>:woman_technologist: I work as <strong>Senior Quality Engineer</strong><br/>:books: Focused on Test Automation<br> 🥅 Love to learn something new every day<br></p><br/>
+### AI Engineer | LLM Applications | RAG Systems | Evaluation Pipelines
 
-### 💻 My Tech Stack
+I build production AI systems — from RAG pipelines and multi-agent workflows to evaluation frameworks that measure what actually matters. Currently transitioning from 12 years of Senior QA Engineering into full-time AI Engineering, bringing a systems-thinking and quality-first mindset to LLM applications.
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/440px-Cassandra_logo.svg.png"></code>
-<code><img height="25" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png"></code>
-<code><img height="25" src="https://miro.medium.com/max/1400/1*I15Jfd1ZxG5BZNUd1xlGDw.png"></code>
-<code><img height="25" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><br><br/>
+---
 
+### 🚀 Featured Projects
 
-### 🤖 My Test Automation Projects
-- [cypress-javascript-cucumber-framework](https://github.com/Anusha-Sundar/cypress-javascript-cucumber-framework) - This project is a code concept of using cypress and cucumber with page object model built using Javascript
-- [cypress-demo-framework](https://github.com/Anusha-Sundar/cypress-demo-framework) - This project covers the basic concepts of Cypress IO.
-<br><br/>
+**[RAG API](https://github.com/Anusha-Sundar/rag-api)** — Production RAG API deployed on Azure Container Apps
+- FastAPI + LangChain + ChromaDB + Groq LLaMA 3.1
+- Redis caching (82x faster on repeated questions), rate limiting, session memory
+- CI/CD via GitHub Actions → Azure Container Registry → Container Apps
+- **Live:** https://rag-api.happyforest-2eae1650.eastus.azurecontainerapps.io/docs
 
-### Connect with me
+**[Evaluation Framework](https://github.com/Anusha-Sundar/evaluation-framework)** — LLM Evaluation Pipeline
+- DeepEval metrics: Faithfulness (0.73), Answer Relevancy (0.93), Hallucination (0.49)
+- LangSmith tracing — every LLM call instrumented with latency and metadata
+- Evaluates the RAG API against a curated test dataset, exports results to CSV
 
-<a href="https://www.linkedin.com/in/anusha-sundar/">
-  <img align="left" alt="Anusha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
+---
+
+### 🏭 Production AI Systems
+
+**ETL Migration Platform** — Informatica → Azure Data Factory
+- n8n multi-agent pipeline: intake validation → artifact generation → complementary artifact creation
+- Generates ADF datasets, dataflows, and pipelines from Informatica XML mappings
+- Reduces migration time significantly for ETL developers — live in production
+
+**Teradata → Snowflake Query Converter** *(in development)*
+- 5-agent RAG pipeline: intake → syntax conversion → table mapping → validation → repair
+- 3 vector indexes: Teradata DDLs, Snowflake DDLs, syntax reference documentation
+- Live Snowflake execution for validation with confidence scoring and self-healing repair loop
+
+---
+
+### 🛠 Tech Stack
+
+**AI/ML:** LangChain · LangSmith · DeepEval · ChromaDB · HuggingFace · OpenAI · Groq
+
+**Backend:** FastAPI · Python · asyncio · Pydantic · Redis · Docker
+
+**Cloud/DevOps:** Azure Container Apps · Azure Container Registry · GitHub Actions · n8n
+
+**Databases:** PostgreSQL · Snowflake · Teradata · ChromaDB
+
+---
+
+### 📊 What I Build
+
+```
+RAG Pipelines      → grounded answers from private documents
+Multi-agent flows  → complex workflows with LLM orchestration  
+Evaluation systems → measuring faithfulness, relevancy, hallucination
+Production APIs    → deployed, monitored, rate-limited, cached
+```
+
+---
+
+### 🔗 Connect
+
+[![LinkedIn](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)](https://www.linkedin.com/in/anusha-sundar/) &nbsp; Anusha Sundar
